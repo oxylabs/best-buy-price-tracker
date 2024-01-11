@@ -44,7 +44,7 @@ print(response.json())
 
 ## 3. Creating the core of the tracker
 
-Create a function that would read the historical price tracker data
+Create a function that would read the historical price tracker data.
 
 ```python
 def read_past_data(filepath):
@@ -61,7 +61,7 @@ def read_past_data(filepath):
     return results
 ```
 
-Now that we have the historical price data loaded, we can think about a function that would take the past price tracker data and add today’s price to it.
+As the historical price data is now loaded, think of a function that would take the past price tracker data and add present price to it.
 
 ```python
 def add_todays_prices(results, tracked_product_links):
@@ -81,7 +81,7 @@ def add_todays_prices(results, tracked_product_links):
     return results
 ```
 
-Having the prices updated for today, we can move on to saving our results back to the file we started from, thus finishing our process loop.
+Having the prices updated for the present, move on to saving the results back to the file you started from, thus finishing the process loop.
 
 ```python
 def save_results(results, filepath):
@@ -92,7 +92,7 @@ def save_results(results, filepath):
     return
 ```
 
-Finally, we can move the connection to the Scraper API to a separate function and combine all we have done so far:
+Finally, move the connection to the Scraper API to a separate function and combine all you have so far:
 
 ```python
 import os
