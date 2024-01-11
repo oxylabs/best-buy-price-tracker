@@ -354,4 +354,4 @@ if __name__ == "__main__":
 
 For all of the API parameters, see our [documentation](https://developers.oxylabs.io/scraper-apis/e-commerce-scraper-api/best-buy).
 
-If you assistance, don't hesitate to contact us at support@oxylabs.io.
+If you need assistance, don't hesitate to contact us at support@oxylabs.io.
