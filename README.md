@@ -2,7 +2,7 @@
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
-Here you'll find the process of building a scalable price tracker for Best Buy, one of the largest e-commerce websites for electronics.
+Here, you'll find the process of building a scalable price tracker for Best Buy, one of the largest e-commerce websites for electronics.
 
 The tutorial uses Python and Oxylabs’ [Best Buy API](https://oxylabs.io/products/scraper-api/ecommerce/bestbuy).
 
@@ -61,7 +61,7 @@ def read_past_data(filepath):
     return results
 ```
 
-As the historical price data is now loaded, think of a function that would take the past price tracker data and add present price to it.
+As the historical price data is now loaded, think of a function that would take the past price tracker data and add the present price to it.
 
 ```python
 def add_todays_prices(results, tracked_product_links):
@@ -354,4 +354,4 @@ if __name__ == "__main__":
 
 For all of the API parameters, see our [documentation](https://developers.oxylabs.io/scraper-apis/e-commerce-scraper-api/best-buy).
 
-If in need of assistance, don't hesitate to contact us at support@oxylabs.io.
+If you assistance, don't hesitate to contact us at support@oxylabs.io.
