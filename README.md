@@ -92,7 +92,7 @@ def save_results(results, filepath):
     return
 ```
 
-Finally, move the connection to the Scraper API to a separate function and combine all you have so far:
+Finally, move the connection to the Scraper API to a separate function and combine all you have so far.
 
 ```python
 import os
