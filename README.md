@@ -25,7 +25,7 @@ PASSWORD = "password"
 
 # Structure payload.
 payload = {
-   'source': 'universal_ecommerce',
+   'source': 'universal',
    'url': "https://www.bestbuy.com/site/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618.p?skuId=6512618&intl=nosplash",
    'geo_location': 'United States',
    'parse': True,
@@ -107,7 +107,7 @@ def get_product(link):
 
     # Structure payload.
     payload = {
-        'source': 'universal_ecommerce',
+        'source': 'universal',
         'url': link,
         'geo_location': 'United States',
         'parse': True,
@@ -239,7 +239,7 @@ def get_product(link):
 
     # Structure payload.
     payload = {
-        'source': 'universal_ecommerce',
+        'source': 'universal',
         'url': link,
         'geo_location': 'United States',
         'parse': True,
