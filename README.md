@@ -2,6 +2,8 @@
 
 [![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
+[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/Pds3gBmKMH)
+
 Here, you'll find the process of building a scalable price tracker for Best Buy, one of the largest e-commerce websites for electronics.
 
 The tutorial uses Python and Oxylabs’ [Best Buy API](https://oxylabs.io/products/scraper-api/ecommerce/bestbuy) (a part of Web Scraper API). You can get a **1-week free trial** by registering on the [dashboard](https://dashboard.oxylabs.io/).
