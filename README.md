@@ -1,6 +1,6 @@
 # Best Buy Price Tracker
 
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=best-buy-price-tracker-github&transaction_id=102f49063ab94276ae8f116d224b67)
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=github&utm_medium=referral&utm_content=best-buy-price-tracker&utm_campaign=banner&groupid=877)
 
 <p align="left">
   <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
@@ -12,9 +12,9 @@
 
 Here, you'll find the process of building a scalable price tracker for Best Buy, one of the largest e-commerce websites for electronics.
 
-The tutorial uses Python and Oxylabs’ [Best Buy API](https://oxylabs.io/products/scraper-api/ecommerce/bestbuy) (a part of Web Scraper API). You can get a **1-week free trial** by registering on the [dashboard](https://dashboard.oxylabs.io/).
+The tutorial uses Python and Oxylabs’ [Best Buy API](https://oxylabs.io/products/scraper-api/ecommerce/bestbuy?utm_source=github&utm_medium=referral&utm_content=best-buy-price-tracker&groupid=877) (a part of Web Scraper API). You can get a **1-week free trial** by registering on the [dashboard](https://dashboard.oxylabs.io/).
 
-For visualizations and in-depth explanations, see our [blog post](https://oxylabs.io/blog/best-buy-price-tracker). 
+For visualizations and in-depth explanations, see our [blog post](https://oxylabs.io/blog/best-buy-price-tracker?utm_source=github&utm_medium=referral&utm_content=best-buy-price-tracker&groupid=877). 
 
 ## 1. Installing prerequisite libraries
 
